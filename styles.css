@@ -1,0 +1,42 @@
+*{
+  margin: 20px;
+  padding: 5px;
+}
+
+#external{
+  font-style: italic;
+  font-size: 20px;
+
+  font-weight: 800;
+  border: 10px solid purple;
+  display: inline-block;
+  width: 50%;
+}
+
+.inline{
+  font-weight: 800;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+  color: crimson;
+}
+#bg{
+  background-image: url('istockphoto-1148091793-170667a.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 70%;
+}
+
+.text{
+ color: blueviolet;
+ font-size: 40px;
+ font-weight: 600;
+  
+}
+
+.text2{
+  color: white;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 30px;
+}
